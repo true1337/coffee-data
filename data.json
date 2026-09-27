@@ -1,0 +1,1400 @@
+{
+ "version": 1,
+ "models": [
+  {
+   "id": "delonghi-ecam22110",
+   "brand": "De'Longhi",
+   "name": "Magnifica S",
+   "model": "ECAM22.110.B",
+   "series": "ECAM 20/21/22.11x",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-magnifica-s",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=303066&download=true"
+    },
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=379616&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM22.110.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam21117",
+   "brand": "De'Longhi",
+   "name": "Magnifica S",
+   "model": "ECAM21.117.B",
+   "series": "ECAM 20/21/22.11x",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-magnifica-s",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=303066&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM21.117.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam22360",
+   "brand": "De'Longhi",
+   "name": "Magnifica S",
+   "model": "ECAM22.360.B",
+   "series": "ECAM 22.xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167638&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM22.360.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam23460",
+   "brand": "De'Longhi",
+   "name": "",
+   "model": "ECAM23.460.S",
+   "series": "ECAM 23.xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167773&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM23.460.S"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-esam3000",
+   "brand": "De'Longhi",
+   "name": "Magnifica",
+   "model": "ESAM3000.B",
+   "series": "ESAM 3xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ESAM3000.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-esam4200",
+   "brand": "De'Longhi",
+   "name": "Magnifica",
+   "model": "ESAM4200.S",
+   "series": "ESAM 4xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ESAM4200.S"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam29021",
+   "brand": "De'Longhi",
+   "name": "Magnifica Evo",
+   "model": "ECAM290.21.B",
+   "series": "ECAM 290.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-evo",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=303198&download=true"
+    },
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=313166&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM290.21.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam29061",
+   "brand": "De'Longhi",
+   "name": "Magnifica Evo",
+   "model": "ECAM290.61.SB",
+   "series": "ECAM 290.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-evo",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM290.61.SB"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam35015",
+   "brand": "De'Longhi",
+   "name": "Dinamica",
+   "model": "ECAM350.15.B",
+   "series": "ECAM 350.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-dinamica",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167796&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM350.15.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam37095",
+   "brand": "De'Longhi",
+   "name": "Dinamica Plus",
+   "model": "ECAM370.95.T",
+   "series": "ECAM 370.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167878&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM370.95.T"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam44660",
+   "brand": "De'Longhi",
+   "name": "Eletta Cappuccino",
+   "model": "ECAM44.660.B",
+   "series": "ECAM 44.xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167681&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM44.660.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam45760",
+   "brand": "De'Longhi",
+   "name": "Eletta Cappuccino",
+   "model": "ECAM45.760.W",
+   "series": "ECAM 45.xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167774&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM45.760.W"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-etam29510",
+   "brand": "De'Longhi",
+   "name": "Autentica",
+   "model": "ETAM29.510.B",
+   "series": "ETAM 29.xxx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=167722&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ETAM29.510.B"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-ecam61074",
+   "brand": "De'Longhi",
+   "name": "PrimaDonna Soul",
+   "model": "ECAM610.74.MB",
+   "series": "ECAM 610.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=211958&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM610.74.MB"
+    }
+   ]
+  },
+  {
+   "id": "delonghi-exam44035",
+   "brand": "De'Longhi",
+   "name": "Rivelia",
+   "model": "EXAM440.35.B",
+   "series": "EXAM 440.xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=280143&download=true"
+    },
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=379699&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/EXAM440.35.B"
+    }
+   ]
+  },
+  {
+   "id": "philips-ep1220",
+   "brand": "Philips",
+   "name": "1200",
+   "model": "EP1220",
+   "series": "EP12xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://dam.versuni.com/m/5b234cb511f92da/original/Quick-Start-Guide-Philips-800-Series-full-automatic-espresso-machine-EP0824-EP0820-EP0810.pdf"
+    },
+    {
+     "title": "Страница поддержки Philips",
+     "url": "https://www.usa.philips.com/c-p/EP1220_04/series-1200-fully-automatic-espresso-machines/support"
+    }
+   ]
+  },
+  {
+   "id": "philips-ep2220",
+   "brand": "Philips",
+   "name": "2200",
+   "model": "EP2220",
+   "series": "EP22xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://dam.versuni.com/m/5b234cb511f92da/original/Quick-Start-Guide-Philips-800-Series-full-automatic-espresso-machine-EP0824-EP0820-EP0810.pdf"
+    },
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/3622826/Philips-Ep2220.html"
+    },
+    {
+     "title": "Страница поддержки Philips",
+     "url": "https://www.usa.philips.com/c-p/EP2220_14/series-2200-fully-automatic-espresso-machines/support"
+    }
+   ]
+  },
+  {
+   "id": "philips-ep2231",
+   "brand": "Philips",
+   "name": "2200 LatteGo",
+   "model": "EP2231",
+   "series": "EP22xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": []
+  },
+  {
+   "id": "philips-ep3246",
+   "brand": "Philips",
+   "name": "3200 LatteGo",
+   "model": "EP3246",
+   "series": "EP32xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/1870745/Philips-Ep3246-70.html"
+    },
+    {
+     "title": "Страница поддержки Philips",
+     "url": "https://www.philips.iq/en/c-p/EP3246_70/series-3200-fully-automatic-espresso-machines/support"
+    }
+   ]
+  },
+  {
+   "id": "philips-ep5447",
+   "brand": "Philips",
+   "name": "5400 LatteGo",
+   "model": "EP5447",
+   "series": "EP54xx",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://dam.versuni.com/m/6516f4d94799a255/original/User-Manual-Philips-Philips-5400-Series-Fully-automatic-espresso-machines-EP5447-EP5147-EP5144-EP5143.pdf"
+    },
+    {
+     "title": "Страница поддержки Philips",
+     "url": "https://www.usa.philips.com/c-p/EP5447_94/philips-5400-series-fully-automatic-espresso-machines/support"
+    }
+   ]
+  },
+  {
+   "id": "saeco-ri9840",
+   "brand": "Saeco",
+   "name": "Lirika",
+   "model": "RI9840",
+   "series": "RI984x",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://www.documents.philips.com/assets/20210511/611bca9874c64a98a073ad2501112837.pdf"
+    }
+   ]
+  },
+  {
+   "id": "saeco-hd8927",
+   "brand": "Saeco",
+   "name": "PicoBaristo",
+   "model": "HD8927",
+   "series": "HD892x",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "philips-codes",
+    "philips-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/1138335/Saeco-Picobaristo-Hd8927.html"
+    },
+    {
+     "title": "Страница поддержки Philips",
+     "url": "https://www.usa.philips.com/c-p/HD8927_47/picobaristo-super-automatic-espresso-machine/support"
+    }
+   ]
+  },
+  {
+   "id": "jura-e8",
+   "brand": "Jura",
+   "name": "E8",
+   "model": "E8",
+   "series": "E-line",
+   "features": [],
+   "families": [
+    "jura-errors",
+    "jura-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция E8 (EC/SC, 2023) PDF",
+     "url": "https://us.jura.com/-/media/global/pdf/manuals-global/home/E-Line-2023/E8-EC-ECS-SC-SCS-INTC/download_manual_E8_EC_ECS_SC_INTC.pdf"
+    },
+    {
+     "title": "Инструкция E8/E80 (2018) PDF",
+     "url": "https://us.jura.com/-/media/global/pdf/manuals-global/home/E-Line-2018/download_manual_v18_E8_E80_E800.pdf"
+    }
+   ]
+  },
+  {
+   "id": "jura-e6",
+   "brand": "Jura",
+   "name": "E6",
+   "model": "E6",
+   "series": "E-line",
+   "features": [],
+   "families": [
+    "jura-errors",
+    "jura-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция E6 (EC/SC, 2022) PDF",
+     "url": "https://us.jura.com/-/media/global/pdf/manuals-global/home/E-Line-2022/E6-EC-SC-INTC/download_manual_E6_EC_SC_INTC.pdf"
+    },
+    {
+     "title": "Инструкция E6/E60 PDF",
+     "url": "https://us.jura.com/-/media/global/pdf/manuals-global/home/E6-E60-E600/download_manual_e6_e60_e600.pdf"
+    }
+   ]
+  },
+  {
+   "id": "jura-ena8",
+   "brand": "Jura",
+   "name": "ENA 8",
+   "model": "ENA 8",
+   "series": "ENA",
+   "features": [],
+   "families": [
+    "jura-errors",
+    "jura-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция ENA 8 PDF (есть русский)",
+     "url": "https://us.jura.com/-/media/global/pdf/manuals-global/home/ENA/ENA-8/download_manual_ena8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "melitta-e950",
+   "brand": "Melitta",
+   "name": "Caffeo Solo",
+   "model": "E950",
+   "series": "E95x",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "melitta-solo"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html"
+    }
+   ]
+  },
+  {
+   "id": "melitta-f86",
+   "brand": "Melitta",
+   "name": "Barista TS Smart",
+   "model": "F86",
+   "series": "Barista",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "melitta-barista"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/2367820/Melitta-Barista-Ts-Smart.html"
+    }
+   ]
+  },
+  {
+   "id": "siemens-te651209rw",
+   "brand": "Siemens",
+   "name": "EQ.6 plus s100",
+   "model": "TE651209RW",
+   "series": "EQ.6 plus",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "bsh-messages",
+    "bsh-faults"
+   ],
+   "docs": [
+    {
+     "title": "Сообщения на дисплее (Siemens)",
+     "url": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "title": "Инструкция (manua.ls)",
+     "url": "https://www.manua.ls/siemens/eq6-plus-s100-te651319rw/manual"
+    }
+   ]
+  },
+  {
+   "id": "bosch-tis30129rw",
+   "brand": "Bosch",
+   "name": "VeroCup 100",
+   "model": "TIS30129RW",
+   "series": "VeroCup",
+   "features": [
+    "Съёмный блок"
+   ],
+   "families": [
+    "bosch-verocup",
+    "bsh-messages",
+    "bsh-faults"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (manua.ls)",
+     "url": "https://www.manua.ls/bosch/verocup-100-tis30129rw/manual"
+    }
+   ]
+  },
+  {
+   "id": "krups-ea8108",
+   "brand": "Krups",
+   "name": "",
+   "model": "EA8108",
+   "series": "EA81xx",
+   "features": [],
+   "families": [],
+   "docs": [
+    {
+     "title": "Инструкция (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/2676656/Krups-Ea8108.html"
+    }
+   ]
+  },
+  {
+   "id": "krups-ea891d",
+   "brand": "Krups",
+   "name": "Evidence",
+   "model": "EA891D",
+   "series": "EA89xx",
+   "features": [],
+   "families": [
+    "krups-ea89"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция EA89 (ManualsLib)",
+     "url": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html"
+    }
+   ]
+  }
+ ],
+ "families": [
+  {
+   "id": "delonghi-magnifica-s",
+   "title": "Индикация Magnifica S (ECAM 20/21/22.11x)",
+   "note": "Логика «наоборот» по сравнению с новыми моделями: у бака мигание = мало воды.",
+   "errors": [
+    {
+     "code": "Бак: мигает",
+     "meaning": "Мало воды в баке",
+     "action": "Долить воду, вставить бак до упора",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Бак: горит",
+     "meaning": "Бак стоит неправильно",
+     "action": "Вставить бак до конца",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Контейнер жмыха: мигает",
+     "meaning": "Контейнер полон",
+     "action": "Опустошить контейнер и поддон",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Контейнер жмыха: горит",
+     "meaning": "Контейнер не вставлен после чистки",
+     "action": "Снять поддон, вставить контейнер",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Декальцинация: мигает",
+     "meaning": "Нужна декальцинация",
+     "action": "Запустить программу декальцинации",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Индикатор пара: мигает",
+     "meaning": "Нужно повернуть ручку горячей воды/пара",
+     "action": "Повернуть ручку в нужное положение",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Жмых + треугольник мигают, бак горит",
+     "meaning": "Помол слишком мелкий, кофе идёт медленно или не идёт",
+     "action": "Помол на одно деление крупнее (к 7)",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Жмых мигает + треугольник горит",
+     "meaning": "Выбран молотый кофе, а воронка пуста",
+     "action": "Засыпать молотый кофе или отменить режим",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Жмых + треугольник мигают",
+     "meaning": "Слишком много кофе",
+     "action": "Выбрать крепость слабее или меньше кофе",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Жмых горит + треугольник мигает",
+     "meaning": "Кончились зёрна или забита воронка молотого кофе",
+     "action": "Засыпать зёрна, прочистить воронку кисточкой",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник мигает (один)",
+     "meaning": "Заварочный блок не установлен после чистки",
+     "action": "Вставить заварочный блок до щелчка",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит (один)",
+     "meaning": "Внутри машина сильно загрязнена",
+     "action": "Тщательно почистить; если не гаснет — диагностика (часто датчик NTC)",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "delonghi-evo",
+   "title": "Индикация Magnifica Evo / Magnifica Start",
+   "note": "",
+   "errors": [
+    {
+     "code": "Бак: горит",
+     "meaning": "Мало воды",
+     "action": "Долить воду, вставить бак до щелчка",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Бак: мигает",
+     "meaning": "Бака нет или стоит неправильно",
+     "action": "Вставить бак до упора",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Контейнер жмыха: горит",
+     "meaning": "Контейнер полон",
+     "action": "Опустошить контейнер и поддон",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Контейнер жмыха: мигает",
+     "meaning": "Контейнер не вставлен",
+     "action": "Вставить поддон с контейнером",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Декальцинация: горит / мигает",
+     "meaning": "Нужна декальцинация / идёт декальцинация",
+     "action": "Запустить программу / дождаться окончания",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит (один)",
+     "meaning": "Внутри машина сильно загрязнена",
+     "action": "Почистить; если не гаснет — сервис",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник мигает (один)",
+     "meaning": "Заварочный блок не установлен",
+     "action": "Вставить блок",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник + индикаторы зёрен мигают",
+     "meaning": "Помол слишком мелкий",
+     "action": "Помол на деление крупнее",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит + зёрна и молотый мигают",
+     "meaning": "Слишком много кофе",
+     "action": "Крепость слабее или меньше кофе",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит + молотый мигает",
+     "meaning": "Воронка молотого кофе пуста или забита",
+     "action": "Засыпать кофе или прочистить воронку",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "delonghi-dinamica",
+   "title": "Индикация Dinamica (ECAM 350.xx)",
+   "note": "",
+   "errors": [
+    {
+     "code": "Бак: горит / мигает",
+     "meaning": "Мало воды / бака нет",
+     "action": "Долить воду / вставить бак до щелчка",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Контейнер жмыха: горит / мигает",
+     "meaning": "Полон / не вставлен",
+     "action": "Опустошить / вставить поддон с контейнером",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Носик горячей воды + треугольник мигают",
+     "meaning": "Носик горячей воды вставлен неправильно",
+     "action": "Вставить носик до упора",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Молочник + треугольник мигают",
+     "meaning": "Молочник не вставлен или ручка в положении CLEAN",
+     "action": "Вставить молочник, повернуть ручку на пену",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник + все зёрна мигают",
+     "meaning": "Помол слишком мелкий, кофе идёт медленно",
+     "action": "Помол на деление крупнее (к 7)",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник + OK мигают",
+     "meaning": "Гидросистема пустая",
+     "action": "Нажать OK для заполнения контура",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит + зёрна мигают",
+     "meaning": "Кончились зёрна или забита воронка",
+     "action": "Засыпать зёрна, прочистить воронку",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник горит (один)",
+     "meaning": "Внутри сильно загрязнена",
+     "action": "Почистить; если не гаснет — сервис",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Треугольник мигает (один)",
+     "meaning": "Заварочный блок не установлен",
+     "action": "Вставить блок",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    },
+    {
+     "code": "Декальцинация: горит",
+     "meaning": "Нужна декальцинация",
+     "action": "OK — запустить, ESC — отложить",
+     "source": "https://coffeefixhub.com/guides/delonghi-error-codes-guide"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "delonghi-common",
+   "title": "De'Longhi: типичные поломки",
+   "note": "",
+   "errors": [],
+   "faults": [
+    {
+     "symptom": "Помпа работает, кофемолка мелет, кофе не идёт",
+     "cause": "Накипь или износ клапана в гидросистеме",
+     "action": "Декальцинация; если не помогло — заменить клапан",
+     "source": "https://www.brewive.com/a/most-common-delonghi-faults-dinamica-primadonna-eletta"
+    },
+    {
+     "symptom": "Горит «общая тревога» (треугольник), машина не реагирует",
+     "cause": "Чаще всего неисправен датчик NTC на бойлере/термоблоке",
+     "action": "Проверить и заменить датчик NTC",
+     "source": "https://www.brewive.com/a/most-common-delonghi-faults-dinamica-primadonna-eletta"
+    },
+    {
+     "symptom": "Кофе слабый, помол короткий",
+     "cause": "Неисправность силовой электроники",
+     "action": "Диагностика платы, при необходимости замена",
+     "source": "https://www.brewive.com/a/most-common-delonghi-faults-dinamica-primadonna-eletta"
+    },
+    {
+     "symptom": "Кофе слабый, помол нормальный",
+     "cause": "Изношены жернова или забит заварочный блок",
+     "action": "Почистить блок; при износе заменить жернова",
+     "source": "https://www.brewive.com/a/most-common-delonghi-faults-dinamica-primadonna-eletta"
+    },
+    {
+     "symptom": "Течь слева, следы накипи под нагревателем",
+     "cause": "Плохое уплотнение расширительной камеры / деформация крышки термоблока",
+     "action": "Снять камеру, почистить, поставить уплотнение (DeLonghi 535750)",
+     "source": "https://www.ifixit.com/Guide/DeLonghi+ECAM+series+water+leak+on+the+left+side/139770"
+    },
+    {
+     "symptom": "Не взбивает молоко, нет пара",
+     "cause": "Неисправен трёхходовой электромагнитный клапан",
+     "action": "Заменить клапан; проверить разъём капучинатора и термостаты",
+     "source": "https://www.brewive.com/a/most-common-delonghi-faults-dinamica-primadonna-eletta"
+    },
+    {
+     "symptom": "Вода в контейнере для жмыха",
+     "cause": "Уплотнения или термоблок",
+     "action": "Заменить уплотнения, проверить термоблок",
+     "source": "https://www.servicebox.ru/faq/kofemashiny/DeLonghi/"
+    },
+    {
+     "symptom": "Машина внезапно отключается",
+     "cause": "Сгорел термопредохранитель из-за перегрева",
+     "action": "Заменить термопредохранитель, найти причину перегрева",
+     "source": "https://www.servicebox.ru/faq/kofemashiny/DeLonghi/"
+    },
+    {
+     "symptom": "Пишет «засыпьте молотый кофе», не мелет",
+     "cause": "Неисправна кофемолка",
+     "action": "Проверить и заменить узел кофемолки",
+     "source": "https://www.servicebox.ru/faq/kofemashiny/DeLonghi/"
+    },
+    {
+     "symptom": "Не идёт горячая вода, капучинатор не промывается",
+     "cause": "Электромагнитный клапан",
+     "action": "Заменить клапан",
+     "source": "https://www.servicebox.ru/faq/kofemashiny/DeLonghi/"
+    }
+   ]
+  },
+  {
+   "id": "philips-codes",
+   "title": "Коды ошибок Philips / Saeco (с дисплеем)",
+   "note": "Официальный список Philips. Коды 02, 10, 15, 22 — внутренняя неисправность, пользователем не устраняется.",
+   "errors": [
+    {
+     "code": "01",
+     "meaning": "Ошибка кофемолки: забита воронка",
+     "action": "Вынуть заварочный блок, выбить кофе из воронки ложкой, пропылесосить",
+     "source": "https://baristalife.co/blogs/blog/saeco-error-codes"
+    },
+    {
+     "code": "03",
+     "meaning": "Ошибка заварочного блока: много кофейных остатков",
+     "action": "Промыть блок тёплой водой, высушить, смазать",
+     "source": "https://baristalife.co/blogs/blog/saeco-error-codes"
+    },
+    {
+     "code": "04",
+     "meaning": "Заварочный блок стоит неправильно",
+     "action": "Вставить блок до щелчка",
+     "source": "https://www.usa.philips.com/c-t/XC000004106/i-see-an-error-code-on-my-philips-espresso-machine"
+    },
+    {
+     "code": "05",
+     "meaning": "Воздух в гидросистеме",
+     "action": "Долить бак, пролить 2–3 чашки горячей воды",
+     "source": "https://baristalife.co/blogs/blog/saeco-error-codes"
+    },
+    {
+     "code": "11 / 19",
+     "meaning": "Машина адаптируется к температуре (после перевозки/холода)",
+     "action": "Подождать ~30 минут при комнатной температуре",
+     "source": "https://www.usa.philips.com/c-t/XC000004106/i-see-an-error-code-on-my-philips-espresso-machine"
+    },
+    {
+     "code": "14",
+     "meaning": "Перегрев",
+     "action": "Выключить и дать остыть ~30 минут",
+     "source": "https://www.usa.philips.com/c-t/XC000004106/i-see-an-error-code-on-my-philips-espresso-machine"
+    },
+    {
+     "code": "02 / 10 / 15 / 22",
+     "meaning": "Внутренняя неисправность",
+     "action": "Нужна диагностика в сервисе",
+     "source": "https://www.usa.philips.com/c-t/XC000004106/i-see-an-error-code-on-my-philips-espresso-machine"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "philips-faults",
+   "title": "Philips / Saeco: типичные поломки",
+   "note": "",
+   "errors": [],
+   "faults": [
+    {
+     "symptom": "Вода уходит в поддон, кофе не наливается",
+     "cause": "Изношено или сместилось уплотнение заварочного блока",
+     "action": "Переустановить блок; заменить комплект уплотнений",
+     "source": "https://juste1cafe.com/en/equipment-maintenance/problems-philips-2200-coffee-machine/"
+    },
+    {
+     "symptom": "Течь спереди, в районе носика",
+     "cause": "Изношены кольца заварочного блока, налёт масла",
+     "action": "Промыть блок, заменить кольца",
+     "source": "https://coffeefixhub.com/guides/philips-coffee-maker-leaking-fix"
+    },
+    {
+     "symptom": "Течь снизу или сзади",
+     "cause": "Бак стоит неплотно, клапан бака",
+     "action": "Переставить бак до упора, проверить клапан",
+     "source": "https://coffeefixhub.com/guides/philips-coffee-maker-leaking-fix"
+    },
+    {
+     "symptom": "Течь под машиной",
+     "cause": "Уплотнения, трещины в шлангах, хомуты",
+     "action": "Заменить уплотнения и шланги, подтянуть хомуты",
+     "source": "https://juste1cafe.com/en/equipment-maintenance/problems-philips-2200-coffee-machine/"
+    },
+    {
+     "symptom": "Течь у LatteGo",
+     "cause": "Засохшее молоко на уплотнениях",
+     "action": "Разобрать и промыть LatteGo, заменить кольца",
+     "source": "https://coffeefixhub.com/guides/philips-coffee-maker-leaking-fix"
+    },
+    {
+     "symptom": "Кофе не идёт или капает",
+     "cause": "Мелкий помол, фильтр, накипь, грязный блок",
+     "action": "Помол крупнее, заменить фильтр, декальцинация, чистка блока",
+     "source": "https://juste1cafe.com/en/equipment-maintenance/problems-philips-2200-coffee-machine/"
+    },
+    {
+     "symptom": "Мигают три красных индикатора",
+     "cause": "Блок стоит неправильно, перегрев или фильтр",
+     "action": "Переставить блок, дать остыть, проверить фильтр",
+     "source": "https://juste1cafe.com/en/equipment-maintenance/problems-philips-2200-coffee-machine/"
+    },
+    {
+     "symptom": "Кофемолка стоит или шумит",
+     "cause": "Застряли зёрна или износ жерновов",
+     "action": "Высыпать зёрна, простучать; при износе заменить",
+     "source": "https://juste1cafe.com/en/equipment-maintenance/problems-philips-2200-coffee-machine/"
+    }
+   ]
+  },
+  {
+   "id": "jura-errors",
+   "title": "Ошибки Jura",
+   "note": "",
+   "errors": [
+    {
+     "code": "Error 1–5",
+     "meaning": "Сигнал нагрева/температуры вне нормы (термоблок)",
+     "action": "Перезапустить; если повторяется — датчик и провода с термопредохранителями",
+     "source": "https://www.caffe-select.co.uk/pages/jura-error-codes"
+    },
+    {
+     "code": "Error 2",
+     "meaning": "Обрыв датчика температуры кофе; бывает в холодном помещении",
+     "action": "Отключить на 5 минут, при холоде налить тёплую воду",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "code": "Error 6",
+     "meaning": "Неисправен керамический клапан (накипь, течь)",
+     "action": "Обслужить или заменить керамический клапан",
+     "source": "https://www.caffe-select.co.uk/pages/jura-error-codes"
+    },
+    {
+     "code": "Error 8",
+     "meaning": "Заварочный блок не проходит цикл",
+     "action": "Почистить сито; далее — блок, энкодер, проводка, мотор, реле",
+     "source": "https://www.caffe-select.co.uk/pages/jura-error-codes"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "jura-faults",
+   "title": "Jura: типичные поломки",
+   "note": "",
+   "errors": [],
+   "faults": [
+    {
+     "symptom": "«Наполните зерновой бак», хотя он полный",
+     "cause": "Масляная плёнка на стенках, износ жерновов",
+     "action": "Высыпать зёрна, протереть бак сухой тряпкой",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "symptom": "«Наполните бак для воды», хотя он полный",
+     "cause": "Поплавок забит накипью",
+     "action": "Почистить бак и поплавок, декальцинация",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "symptom": "«Поддон отсутствует», хотя стоит",
+     "cause": "Грязные металлические контакты поддона",
+     "action": "Почистить края поддона и контакты",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "symptom": "«Опустошите контейнер», хотя пустой",
+     "cause": "Грязный датчик контейнера",
+     "action": "Почистить датчик, переставить контейнер",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "symptom": "Кофе еле капает",
+     "cause": "Слишком мелкий помол",
+     "action": "Помол крупнее",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    },
+    {
+     "symptom": "Нет пены на молоке",
+     "cause": "Молочная система забита жиром",
+     "action": "Программа чистки, промывка; возможна замена воздухозаборника",
+     "source": "https://chronic.ch/en/blogs/learn/jura-coffee-machine-problems"
+    }
+   ]
+  },
+  {
+   "id": "melitta-solo",
+   "title": "Melitta Caffeo Solo: неполадки",
+   "note": "Из таблицы неполадок в инструкции.",
+   "errors": [],
+   "faults": [
+    {
+     "symptom": "Кофе идёт по каплям",
+     "cause": "Мелкий помол или забит заварочный блок",
+     "action": "Помол крупнее, почистить блок, декальцинация",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    },
+    {
+     "symptom": "Кофе не идёт",
+     "cause": "Бак пуст или стоит неправильно",
+     "action": "Долить воду, вставить бак правильно",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    },
+    {
+     "symptom": "Кофемолка не мелет",
+     "cause": "Маслянистые зёрна не проходят в кофемолку",
+     "action": "Постучать по зерновому контейнеру",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    },
+    {
+     "symptom": "Громкий шум кофемолки",
+     "cause": "Посторонний предмет в кофемолке",
+     "action": "Сервис",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    },
+    {
+     "symptom": "Мигают символы зёрен при полном контейнере",
+     "cause": "Посторонний предмет в кофемолке",
+     "action": "Сервис",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    },
+    {
+     "symptom": "Заварочный блок не вставляется",
+     "cause": "Привод не в исходном положении",
+     "action": "Выключить/включить, зажать кнопки 1 и 2 чашки на 2+ секунды, вставить блок",
+     "source": "https://www.manualslib.com/manual/820056/Melitta-Caffeo-Solo.html?page=34"
+    }
+   ]
+  },
+  {
+   "id": "melitta-barista",
+   "title": "Melitta Barista: неполадки",
+   "note": "Из таблицы неполадок в инструкции.",
+   "errors": [
+    {
+     "code": "System error",
+     "meaning": "Программный сбой",
+     "action": "Выключить и включить; если повторяется — сервис",
+     "source": "https://www.manualslib.com/manual/2367820/Melitta-Barista-Ts-Smart.html?page=63"
+    }
+   ],
+   "faults": [
+    {
+     "symptom": "Кофе идёт по каплям",
+     "cause": "Мелкий помол, грязь, накипь",
+     "action": "Помол крупнее, чистка блока, программа очистки, декальцинация",
+     "source": "https://www.manualslib.com/manual/2367820/Melitta-Barista-Ts-Smart.html?page=63"
+    },
+    {
+     "symptom": "«Заполните зёрна», хотя контейнер полный",
+     "cause": "Зёрна не проходят, грязный контейнер, маслянистые зёрна",
+     "action": "Постучать, почистить контейнер, сменить зёрна",
+     "source": "https://www.manualslib.com/manual/2367820/Melitta-Barista-Ts-Smart.html?page=63"
+    },
+    {
+     "symptom": "Заварочный блок не вставляется",
+     "cause": "Привод не в исходном положении",
+     "action": "Зажать кнопку My Coffee и нажать ON/OFF",
+     "source": "https://www.manualslib.com/manual/2367820/Melitta-Barista-Ts-Smart.html?page=63"
+    }
+   ]
+  },
+  {
+   "id": "bsh-messages",
+   "title": "Сообщения Siemens / Bosch",
+   "note": "Официальный список Siemens для EQ.6 plus; у Bosch VeroCup тексты похожие.",
+   "errors": [
+    {
+     "code": "Почистите заварочный блок",
+     "meaning": "Блок загрязнён или слишком много молотого кофе",
+     "action": "Почистить блок; молотого — не больше двух ложек",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Перезапустите прибор",
+     "meaning": "Перегрев или проблема с заварочным блоком",
+     "action": "Дать остыть, почистить блок",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Недостаточная декальцинация",
+     "meaning": "Слабое средство или много накипи",
+     "action": "Повторить декальцинацию",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Дайте прибору остыть",
+     "meaning": "Слишком высокая температура",
+     "action": "Выключить на 30 минут",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Ошибка — обратитесь в сервис",
+     "meaning": "Неисправность прибора",
+     "action": "Сервис",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Налейте негазированную воду / замените фильтр",
+     "meaning": "Бак, газированная вода или фильтр",
+     "action": "Вставить бак правильно, свежая вода, промыть/заменить фильтр",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Опустошите поддон (он пустой)",
+     "meaning": "Датчик не видит поддон или поддон грязный",
+     "action": "Вынуть и вставить поддон на включённой машине, почистить",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    },
+    {
+     "code": "Засыпьте зёрна (контейнер полный)",
+     "meaning": "Маслянистые зёрна не падают в кофемолку",
+     "action": "Постучать, сменить зёрна, протереть контейнер",
+     "source": "https://www.siemens-home.bsh-group.com/ae/customer-service/support/troubleshooting/coffee-machines/eq6-plus/display-messages"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "bosch-verocup",
+   "title": "Ошибки Bosch VeroCup",
+   "note": "",
+   "errors": [
+    {
+     "code": "Error 1",
+     "meaning": "Обычно датчик температуры бойлера",
+     "action": "Диагностика датчика",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "code": "Error 2",
+     "meaning": "Обрыв цепи нагревателя",
+     "action": "Проверить нагреватель и цепь",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "code": "Error 5",
+     "meaning": "Медленный нагрев",
+     "action": "Проверить нагреватель и датчик",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "code": "Error 8",
+     "meaning": "Проблема привода/положения заварочного блока",
+     "action": "Не перезапускать много раз — можно сломать шестерню; в сервис",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    }
+   ],
+   "faults": []
+  },
+  {
+   "id": "bsh-faults",
+   "title": "Siemens / Bosch: типичные поломки",
+   "note": "",
+   "errors": [],
+   "faults": [
+    {
+     "symptom": "«Проверьте заварочный блок», блок не проворачивается",
+     "cause": "Грязь и высохшая смазка в блоке",
+     "action": "Вынуть блок, промыть, смазать пищевой смазкой",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "symptom": "Ложное «Опустошите поддон»",
+     "cause": "Грязные контакты поддона",
+     "action": "Протереть контакты спиртом",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "symptom": "«Добавьте зёрна» при полном контейнере",
+     "cause": "Влага, износ жерновов, масло",
+     "action": "Проверить кофемолку, почистить",
+     "source": "https://cofferemont.ru/manuals/bosch-verocup-errors/"
+    },
+    {
+     "symptom": "Течь",
+     "cause": "Трещины трубок, износ уплотнений",
+     "action": "Заменить уплотнения и трубки",
+     "source": "https://blog.coffeeok.com.ua/neispravnosti-kofemashiny-bosch/"
+    },
+    {
+     "symptom": "Громкий шум при работе",
+     "cause": "Мелкий помол, засор фильтра, помпа",
+     "action": "Помол крупнее, почистить фильтр, проверить помпу",
+     "source": "https://blog.coffeeok.com.ua/neispravnosti-kofemashiny-bosch/"
+    }
+   ]
+  },
+  {
+   "id": "krups-ea89",
+   "title": "Krups EA89 (Evidence): неполадки",
+   "note": "Из таблицы неполадок в инструкции.",
+   "errors": [
+    {
+     "code": "Сбой / зависание",
+     "meaning": "Системная ошибка",
+     "action": "Выключить, вынуть из розетки, снять фильтр, через минуту включить",
+     "source": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html?page=18"
+    }
+   ],
+   "faults": [
+    {
+     "symptom": "Капучинатор не тянет молоко",
+     "cause": "Неправильная сборка или засор",
+     "action": "Проверить сборку и соединитель трубки, прочистить паровой носик",
+     "source": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html?page=18"
+    },
+    {
+     "symptom": "Мало пены",
+     "cause": "Засор, трубка не погружена, тёплое молоко",
+     "action": "Прочистить, проверить трубку, холодное молоко",
+     "source": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html?page=18"
+    },
+    {
+     "symptom": "Нет пара",
+     "cause": "Засор носика",
+     "action": "Прочистить носик; без картриджа Claris прогнать 5–10 циклов пара",
+     "source": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html?page=18"
+    },
+    {
+     "symptom": "Странный шум кофемолки",
+     "cause": "Посторонний предмет",
+     "action": "Сервис",
+     "source": "https://www.manualslib.com/manual/1329059/Krups-Ea89-Series.html?page=18"
+    }
+   ]
+  }
+ ]
+}
