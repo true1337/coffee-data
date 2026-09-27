@@ -54,6 +54,35 @@
    ]
   },
   {
+   "id": "delonghi-ecam22140",
+   "brand": "De'Longhi",
+   "name": "Magnifica S",
+   "model": "ECAM22.140.B",
+   "series": "ECAM 20/21/22.11x",
+   "features": [
+    "Съёмный блок",
+    "Капучинатор"
+   ],
+   "families": [
+    "delonghi-magnifica-s",
+    "delonghi-common"
+   ],
+   "docs": [
+    {
+     "title": "Инструкция (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=303066&download=true"
+    },
+    {
+     "title": "Краткое руководство (PDF)",
+     "url": "https://library.delonghigroup.com/assetbank-delonghi/action/directLinkImage?assetId=379616&download=true"
+    },
+    {
+     "title": "Страница поддержки De'Longhi",
+     "url": "https://www.delonghi.com/en/s/ECAM22.140.B"
+    }
+   ]
+  },
+  {
    "id": "delonghi-ecam22360",
    "brand": "De'Longhi",
    "name": "Magnifica S",
